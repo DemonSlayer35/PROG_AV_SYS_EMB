@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\bin\Debug\Lab2MachineDistBarin.exe.config
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\bin\Debug\Lab2MachineDistBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\bin\Debug\Lab2MachineDistBarin.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.Properties.Resources.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab2MachineDistBarin\obj\Debug\Lab2MachineDistBarin.MachineDistributrice.resources
