@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\bin\Debug\DemoSerieEtDelegate.exe.config
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\bin\Debug\DemoSerieEtDelegate.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\bin\Debug\DemoSerieEtDelegate.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.Form1.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.Properties.Resources.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\DemoSerieEtDelegate\obj\Debug\DemoSerieEtDelegate.pdb

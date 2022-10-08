@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.Form1.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.Properties.Resources.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.frmConfigPort.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\bin\Debug\Lab3CommSeriePartieCBarin.exe.config
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\bin\Debug\Lab3CommSeriePartieCBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\bin\Debug\Lab3CommSeriePartieCBarin.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab3CommSeriePartieCBarin\obj\Debug\Lab3CommSeriePartieCBarin.pdb
