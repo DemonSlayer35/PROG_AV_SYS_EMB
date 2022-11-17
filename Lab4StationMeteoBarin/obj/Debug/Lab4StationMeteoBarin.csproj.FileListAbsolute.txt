@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\bin\Debug\Lab4StationMeteoBarin.exe.config
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\bin\Debug\Lab4StationMeteoBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\bin\Debug\Lab4StationMeteoBarin.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.Form1.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.Properties.Resources.resources
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.exe
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.pdb
+C:\Users\user\Downloads\PROG_AV_SYS_EMB\Lab4StationMeteoBarin\obj\Debug\Lab4StationMeteoBarin.frmConfigPort.resources
